@@ -63,7 +63,7 @@ const stuffList = [
     About my name: the legal given name of mine is 肖, however the correct and traditional given name should be 萧. Both of them are pronounced Xiāo.
   </div>,
   <div>
-    About WASMYun: the name of WASMYun comes from "芸" (Yún). 
+    About WASMYun: the name of WASMYun comes from "芸" (Yún), in memory of my best friend in undergraduate studies.
   </div>
 ]
 
