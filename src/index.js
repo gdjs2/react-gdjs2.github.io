@@ -60,7 +60,7 @@ const stuffList = [
     </ul>
   </div>,
   <div>
-    About my name: the legal given name of mine is 肖, however the correct and traditional given name should be 萧. Both of them are pronounced Xiāo.
+    About my name: the legal  surname of mine is 肖, however the correct and traditional surname should be 萧. Both of them are pronounced Xiāo.
   </div>,
   <div>
     About WASMYun: the name of WASMYun comes from "芸" (Yún), in memory of my best friend in undergraduate studies.
